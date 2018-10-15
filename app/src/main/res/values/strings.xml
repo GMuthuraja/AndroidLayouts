@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroidLayouts</string>
+    <string name="rel_layout_heading">Relative Layout Example</string>
+    <string name="lin_layout_heading">Linear Layout Example</string>
+    <string name="fra_layout_heading">Frame Layout Example</string>
+    <string name="got_it">Got it</string>
+</resources>
