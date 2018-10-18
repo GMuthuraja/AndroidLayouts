@@ -13,7 +13,7 @@
         android:textSize="20sp"
         android:fontFamily="sans-serif-condensed"
         android:textStyle="bold"
-        android:paddingTop="20dp"
+        android:paddingTop="10dp"
         android:layout_centerHorizontal="true"
         android:textColor="@color/colorPrimary"/>
 
